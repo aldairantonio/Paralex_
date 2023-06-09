@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'CascadiaMono';
+    src: url('./assets/fonts/CascadiaMono.ttf') format('ttf');
+    /* Outros formatos de fonte podem ser adicionados aqui, como .woff ou .ttf */
+  }
+  
+
+  body {
+    font-family: 'CascadiaMono' !important;
+  }
+
